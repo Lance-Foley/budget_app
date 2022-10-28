@@ -1,8 +1,8 @@
 en:
   application:
-    name: Untitled Application
+    name: finance_management_app
     owner: Unidentified Developer
     description: "You can update this description in `config/locales/en/application.en.yml`."
-    keywords: untitled application seo keywords
-    support_email: change.me@localhost
-    key: untitled_application
+    keywords: finance_management_app seo keywords
+    support_email: lance-foley@mistapp.dev
+    key: finance_management_app
